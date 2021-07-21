@@ -13,7 +13,7 @@ class Test(unittest.TestCase):
     """
     The basic class that inherits unittest.TestCase
     """
-    person = PersonClass.Person()  # instantiate the Person Class
+    person = PersonClass.Person() 
     user_id = []  # variable that stores obtained user_id
     user_name = []  # variable that stores person name
 
